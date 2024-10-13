@@ -1,8 +1,5 @@
 # Outer-Clove-Web-site
-
- comprehensive website for Outerclove Restaurant , simulating a real-world restaurant environment by incorporating table reservation, car parking management , food ordering , and payment processing functionalities. This project enhances both user experience and operational efficiency
-
-
+comprehensive website for Outerclove Restaurant , simulating a real-world restaurant environment by incorporating table reservation, car parking management , food ordering , and payment processing functionalities. This project enhances both user experience and operational efficiency
 
 🔑 Features:
 
