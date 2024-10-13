@@ -4,6 +4,7 @@ comprehensive website for Outerclove Restaurant , simulating a real-world restau
 🔑 Features:
 
 Customers:
+
 ✔️ Authentication (Login/Signup)
 ✔️ Menu browsing 📜
 ✔️ Table reservations 🪑
@@ -48,8 +49,6 @@ Backend:
 
 IDE:
  ⚒️Adobe Dreamweaver (Development)
-
-
 
 
 
