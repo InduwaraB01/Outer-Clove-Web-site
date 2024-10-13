@@ -1,0 +1,105 @@
+@charset "utf-8";
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+			background-image:url("../images/video-bg.jpg")
+        }
+
+        header {
+            text-align: center;
+            
+            color: #C8BEAA;
+            padding: 20px;
+        }
+
+        #menu {
+            max-width: 800px;
+            margin: 20px auto;
+        }
+
+        .menu-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border: 1px solid #ddd;
+            background-color: #fff;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        .menu-item img {
+            max-width: 100px;
+            max-height: 80px;
+            margin-right: 10px;
+        }
+
+        .item-details {
+            flex: 1;
+            margin-right: 10px;
+        }
+
+        .item-details h3 {
+            margin: 0;
+        }
+
+        .order-button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 12px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+        #filter-options {
+            margin: 20px 0;
+        }
+
+
+footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        .filter-label {
+            margin-right: 10px;
+        }
+
+        .filter-btn {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            cursor: pointer;
+            border-radius: 4px; 
+}
+
+#filter-options {
+    color: #F4E8E8;
+}

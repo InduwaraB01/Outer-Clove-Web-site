@@ -1,0 +1,47 @@
+body{
+    background-image: url(../images/video-bg.jpg);    
+}
+
+#form{
+    background-color: rgb(255, 255, 255);
+    width:25%;
+    border-radius: 4px;
+    margin:120px auto;
+    padding:50px;
+    box-shadow: 10px 10px 5px rgb(82, 11, 77);
+}
+
+#btn{
+    
+    background-color: burlywood;
+    padding:10px;
+    font-size: large;
+    border-radius: 10px;
+    color: black}
+
+
+
+
+
+
+footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+
+	
+
+
+@media screen and (max-width: 570px) {
+    #form {
+      width: 65%;
+      margin-left:none;
+      padding:40px;
+    }
+  }

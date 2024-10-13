@@ -1,0 +1,13 @@
+@charset "utf-8";
+.services.title {
+	 text-align: center;
+    font-size: 35px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #C8BEAA;}
+	
+body {
+    background-image: url(../images/video-bg.jpg);
+}
+.service.page.content {
+   color: #E1CECE;
+}

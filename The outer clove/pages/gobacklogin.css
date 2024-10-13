@@ -1,0 +1,21 @@
+@charset "utf-8";
+body{
+	 background-image: url(../images/video-bg.jpg);
+}
+h2{
+	color: aqua;
+}
+h4
+{
+	color: beige
+}
+
+footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
