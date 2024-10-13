@@ -82,3 +82,9 @@ IDE:
 ⚙️ PHP for backend scripting
 
 📡 Seamless integration of frontend & backend functionalities
+
+
+Login Type selection
+
+![image](https://github.com/user-attachments/assets/04900b99-cf36-4a6b-8163-74d4d62042b3)
+
