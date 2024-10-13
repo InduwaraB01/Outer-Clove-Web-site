@@ -6,7 +6,11 @@ comprehensive website for Outerclove Restaurant , simulating a real-world restau
 Customers:
 
 ✔️ Authentication (Login/Signup)
+
+
 ✔️ Menu browsing 📜
+
+
 ✔️ Table reservations 🪑
 ✔️ Food ordering 🛍️
 ✔️ Payment processing 💳
