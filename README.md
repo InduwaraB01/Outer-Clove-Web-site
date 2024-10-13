@@ -12,9 +12,13 @@ Customers:
 
 
 ✔️ Table reservations 🪑
+
 ✔️ Food ordering 🛍️
+
 ✔️ Payment processing 💳
+
 ✔️ Submit feedback ✍️
+
 ✔️ Rate & review the experience 🌟
 ✔️ Filter menu options 🔍
 
